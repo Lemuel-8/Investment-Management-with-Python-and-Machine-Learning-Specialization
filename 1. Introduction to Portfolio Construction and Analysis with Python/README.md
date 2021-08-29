@@ -1,3 +1,4 @@
+# Learning Objectives
 . Understand fundamentals of returns, multiple sets of returns using vectors<b>
 . Understand risk adjusted measures<b>
 . Understand non-Gaussian distribution, skewness and kurtosis<b>
